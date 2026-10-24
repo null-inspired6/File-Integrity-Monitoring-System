@@ -1,0 +1,25 @@
+{
+  "baseline_version": "1.0",
+  "chunk_size_bytes": 65536,
+  "max_retries_on_change": 2,
+  "default_baseline_dir": "baselines",
+  "default_report_dir": "reports",
+  "default_db_path": "storage/fims.db",
+  "default_log_path": "logs/fims.log",
+  "follow_symlinks": false,
+  "default_exclusions": [
+    ".git",
+    "__pycache__",
+    ".pytest_cache",
+    "venv",
+    ".venv",
+    "node_modules",
+    "fims.db",
+    "fims.log",
+    "*.tmp",
+    "*.swp",
+    ".DS_Store",
+    "desktop.ini",
+    "Thumbs.db"
+  ]
+}

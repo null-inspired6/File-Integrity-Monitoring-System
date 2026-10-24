@@ -1,0 +1,4 @@
+# File Integrity Monitoring System (FIMS) - Dependencies
+streamlit>=1.30.0
+pytest>=8.0.0
+pandas>=2.0.0
